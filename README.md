@@ -119,7 +119,7 @@ and tells you precisely what's missing.
 dependencies and renders on plain ANSI.
 
 ```bash
-git clone https://github.com/YOURNAME/shade-tools.git
+git clone https://github.com/501sz/shade-tools.git
 cd shade-tools
 
 mkdir -p ~/.local/share/shade ~/.local/bin
